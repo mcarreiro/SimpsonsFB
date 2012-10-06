@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/vendor/bundles/Sensio/Bundle/GeneratorBundle/Command
+END
+GenerateDoctrineEntityCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/vendor/bundles/Sensio/Bundle/GeneratorBundle/Command/GenerateDoctrineEntityCommand.php
+END
+GenerateDoctrineCrudCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/vendor/bundles/Sensio/Bundle/GeneratorBundle/Command/GenerateDoctrineCrudCommand.php
+END
+GenerateDoctrineCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/bundles/Sensio/Bundle/GeneratorBundle/Command/GenerateDoctrineCommand.php
+END
+GenerateBundleCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/bundles/Sensio/Bundle/GeneratorBundle/Command/GenerateBundleCommand.php
+END
+GenerateDoctrineFormCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/vendor/bundles/Sensio/Bundle/GeneratorBundle/Command/GenerateDoctrineFormCommand.php
+END
+Validators.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/vendor/bundles/Sensio/Bundle/GeneratorBundle/Command/Validators.php
+END

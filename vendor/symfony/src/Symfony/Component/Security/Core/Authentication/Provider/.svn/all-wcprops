@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/Authentication/Provider
+END
+AnonymousAuthenticationProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/Authentication/Provider/AnonymousAuthenticationProvider.php
+END
+PreAuthenticatedAuthenticationProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/Authentication/Provider/PreAuthenticatedAuthenticationProvider.php
+END
+UserAuthenticationProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/Authentication/Provider/UserAuthenticationProvider.php
+END
+AuthenticationProviderInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/Authentication/Provider/AuthenticationProviderInterface.php
+END
+RememberMeAuthenticationProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/Authentication/Provider/RememberMeAuthenticationProvider.php
+END
+DaoAuthenticationProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/Authentication/Provider/DaoAuthenticationProvider.php
+END

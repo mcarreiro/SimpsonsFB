@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model
+END
+EntryInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model/EntryInterface.php
+END
+PermissionGrantingStrategyInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model/PermissionGrantingStrategyInterface.php
+END
+FieldEntryInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model/FieldEntryInterface.php
+END
+AuditLoggerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model/AuditLoggerInterface.php
+END
+MutableAclInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model/MutableAclInterface.php
+END
+AuditableAclInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model/AuditableAclInterface.php
+END
+AclProviderInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model/AclProviderInterface.php
+END
+AuditableEntryInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model/AuditableEntryInterface.php
+END
+ObjectIdentityInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model/ObjectIdentityInterface.php
+END
+SecurityIdentityInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model/SecurityIdentityInterface.php
+END
+ObjectIdentityRetrievalStrategyInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model/ObjectIdentityRetrievalStrategyInterface.php
+END
+SecurityIdentityRetrievalStrategyInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model/SecurityIdentityRetrievalStrategyInterface.php
+END
+AclCacheInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model/AclCacheInterface.php
+END
+MutableAclProviderInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model/MutableAclProviderInterface.php
+END
+DomainObjectInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model/DomainObjectInterface.php
+END
+AclInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Model/AclInterface.php
+END

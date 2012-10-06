@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Resources/schema
+END
+mssql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Resources/schema/mssql.sql
+END
+sqlite.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Resources/schema/sqlite.sql
+END
+postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Resources/schema/postgresql.sql
+END
+mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Resources/schema/mysql.sql
+END
+oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Resources/schema/oracle.sql
+END
+db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Resources/schema/db2.sql
+END

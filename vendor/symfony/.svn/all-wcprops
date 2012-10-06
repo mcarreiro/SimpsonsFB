@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/vendor/symfony
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/vendor/symfony/LICENSE
+END
+CHANGELOG-2.0.md
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/vendor/symfony/CHANGELOG-2.0.md
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/vendor/symfony/.travis.yml
+END
+vendors.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/vendor/symfony/vendors.php
+END
+UPDATE.ja.md
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/vendor/symfony/UPDATE.ja.md
+END
+CONTRIBUTORS.md
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/vendor/symfony/CONTRIBUTORS.md
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/vendor/symfony/composer.json
+END
+autoload.php.dist
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/vendor/symfony/autoload.php.dist
+END
+UPDATE.md
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/vendor/symfony/UPDATE.md
+END

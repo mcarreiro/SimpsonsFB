@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/User
+END
+InMemoryUserProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/User/InMemoryUserProvider.php
+END
+UserProviderInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/User/UserProviderInterface.php
+END
+ChainUserProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/User/ChainUserProvider.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/User/User.php
+END
+UserInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/User/UserInterface.php
+END
+UserChecker.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/User/UserChecker.php
+END
+UserCheckerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/User/UserCheckerInterface.php
+END
+AdvancedUserInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/User/AdvancedUserInterface.php
+END

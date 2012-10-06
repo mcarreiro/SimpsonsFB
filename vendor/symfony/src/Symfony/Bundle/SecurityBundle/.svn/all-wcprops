@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle
+END
+SecurityBundle.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/SecurityBundle.php
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/LICENSE
+END

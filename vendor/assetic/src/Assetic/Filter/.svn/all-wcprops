@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter
+END
+StylusFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/StylusFilter.php
+END
+CompassFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/CompassFilter.php
+END
+LessFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/LessFilter.php
+END
+JpegtranFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/JpegtranFilter.php
+END
+CoffeeScriptFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/CoffeeScriptFilter.php
+END
+PngoutFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/PngoutFilter.php
+END
+PackagerFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/PackagerFilter.php
+END
+SprocketsFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/SprocketsFilter.php
+END
+LessphpFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/LessphpFilter.php
+END
+OptiPngFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/OptiPngFilter.php
+END
+CallablesFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/CallablesFilter.php
+END
+CssImportFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/CssImportFilter.php
+END
+BaseCssFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/BaseCssFilter.php
+END
+CssEmbedFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/CssEmbedFilter.php
+END
+CssRewriteFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/CssRewriteFilter.php
+END
+FilterCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/FilterCollection.php
+END
+CssMinFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/CssMinFilter.php
+END
+JpegoptimFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/JpegoptimFilter.php
+END
+FilterInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/FilterInterface.php
+END

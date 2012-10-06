@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Templating/Storage
+END
+FileStorage.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Templating/Storage/FileStorage.php
+END
+Storage.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Templating/Storage/Storage.php
+END
+StringStorage.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Templating/Storage/StringStorage.php
+END

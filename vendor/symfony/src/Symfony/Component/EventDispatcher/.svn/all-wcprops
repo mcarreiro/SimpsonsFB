@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/EventDispatcher
+END
+EventDispatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/EventDispatcher/EventDispatcher.php
+END
+EventDispatcherInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/EventDispatcher/EventDispatcherInterface.php
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/EventDispatcher/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/EventDispatcher/LICENSE
+END
+Event.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/EventDispatcher/Event.php
+END
+EventSubscriberInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/EventDispatcher/EventSubscriberInterface.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/EventDispatcher/README.md
+END

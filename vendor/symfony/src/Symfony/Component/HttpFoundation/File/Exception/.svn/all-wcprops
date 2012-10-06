@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpFoundation/File/Exception
+END
+FileNotFoundException.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpFoundation/File/Exception/FileNotFoundException.php
+END
+FileException.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpFoundation/File/Exception/FileException.php
+END
+UploadException.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpFoundation/File/Exception/UploadException.php
+END
+UnexpectedTypeException.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpFoundation/File/Exception/UnexpectedTypeException.php
+END
+AccessDeniedException.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpFoundation/File/Exception/AccessDeniedException.php
+END

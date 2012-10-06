@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional
+END
+LocalizedRoutesAsPathTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/LocalizedRoutesAsPathTest.php
+END
+WebTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/WebTestCase.php
+END
+FormLoginTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/FormLoginTest.php
+END
+AuthenticationCommencingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/AuthenticationCommencingTest.php
+END
+SecurityRoutingIntegrationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/SecurityRoutingIntegrationTest.php
+END

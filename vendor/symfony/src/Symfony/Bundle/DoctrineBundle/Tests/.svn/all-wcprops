@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle/Tests
+END
+RegistryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle/Tests/RegistryTest.php
+END
+TestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle/Tests/TestCase.php
+END
+ContainerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle/Tests/ContainerTest.php
+END

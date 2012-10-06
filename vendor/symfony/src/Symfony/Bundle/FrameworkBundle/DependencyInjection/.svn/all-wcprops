@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/DependencyInjection
+END
+Configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/DependencyInjection/Configuration.php
+END
+FrameworkExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/DependencyInjection/FrameworkExtension.php
+END

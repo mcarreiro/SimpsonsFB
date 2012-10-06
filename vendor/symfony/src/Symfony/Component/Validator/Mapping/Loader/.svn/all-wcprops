@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/Loader
+END
+FileLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/Loader/FileLoader.php
+END
+LoaderInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/Loader/LoaderInterface.php
+END
+XmlFileLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/Loader/XmlFileLoader.php
+END
+FilesLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/Loader/FilesLoader.php
+END
+LoaderChain.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/Loader/LoaderChain.php
+END
+YamlFileLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/Loader/YamlFileLoader.php
+END
+XmlFilesLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/Loader/XmlFilesLoader.php
+END
+YamlFilesLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/Loader/YamlFilesLoader.php
+END
+StaticMethodLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/Loader/StaticMethodLoader.php
+END
+AnnotationLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/Loader/AnnotationLoader.php
+END

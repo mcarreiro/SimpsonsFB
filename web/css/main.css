@@ -1,0 +1,200 @@
+/* 
+    Document   : main
+    Created on : Jun 30, 2012, 1:02:45 PM
+    Author     : mcarreiro
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body { 
+    background-color: #ffea7f;
+    margin:30px 0px; padding:0px;
+    text-align:center;
+    font-size: 18px;
+    height:500px;
+    font-family: arial;
+}
+
+.header{
+     text-align:center !important;
+}
+
+
+.buscador{    
+    width: 640px;
+    position: relative;
+    height: 100px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 3px 3px 5px #888888;
+    text-align:center;
+    margin:auto;
+}
+
+.searchText{
+    left: 2%;
+}
+
+.searchInput{
+    width: 540px;
+    height: 40px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    color: #ccc;  
+    margin-top:31.2px; 
+}
+
+.searchButton{
+    width: 70px;
+    height: 40px;
+    border: 1px solid #ccc;
+    background-color: #e6e6e6;
+    border-radius: 6px;
+    margin-top: 30px;
+    margin-right: 10px;
+    float: right;
+}
+
+.subirButton{
+    position:relative;
+    padding: 7px;
+    width: 180px;
+    height: 40px;
+    border: 1px solid #297acc;
+    border-radius: 6px;
+    background-color: #3399ff;
+    text-decoration:none;
+    font-size: 18px;
+    color: white;
+}
+
+.buttonWrapper{
+    position:relative;
+    margin-top: 3%;
+}
+
+.footer{
+    position:relative;
+    color: gray;
+    margin-top: 7%;
+}
+
+textarea{
+    display: block;
+    margin: auto;
+    position: relative;
+    border: 1px solid #ccc;
+}
+
+.frase{    
+    width: 640px;
+    position: relative;
+    height: 260px;
+    min-height: 260px;
+  height: auto !important;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 3px 3px 5px #888888;
+    margin:auto;
+    padding: 3px;
+}
+
+.cabeza{
+    padding: 40px;
+    float:left; 
+}
+
+.infoFrase{
+    position: relative;
+    color: #888888;
+    margin-top: 15px;
+    float:right;
+    display: inline;
+    text-align: left;
+}
+
+.bandera{
+    float: right;
+    padding: 20px;
+}
+
+.frasePrincipal{
+    font-size: 18px;
+    width: 400px;
+}
+
+.detalleFrase{
+     font-size: 18px;
+     float:left;
+}
+
+.modificacion{
+    float:right;
+    margin-right: 13px;
+    position:relative;
+    font-size: 13px;
+    padding: 2px;
+    width: 120px;
+    margin-top: 1px;
+    height: 16px;
+    border: 1px solid #297acc;
+    border-radius: 6px;
+    background-color: #3399ff;
+    text-decoration:none;
+    color: white;
+}
+
+.sugerencia{
+    width:420px;
+    height: 290px;
+    font-size: 13px;
+    background-color: #ccc;
+}
+
+a{
+    cursor: pointer;
+}
+
+.enviarMail{
+    position:relative;
+    margin-top: 10px;
+    padding: 2px;
+    width: 80px;
+    height: 30px;
+    border: 1px solid #297acc;
+    border-radius: 6px;
+    background-color: #3399ff;
+    text-decoration:none;
+    font-size: 14px;
+    color: white;
+    cursor: pointer;
+}
+
+.newFraseTextArea{
+	margin-left: 38%;
+}
+
+
+.clearfix:after{
+  clear: both;
+  content: ".";
+  display: block;
+  height: 0;
+  visibility: hidden;
+  font-size: 0;
+}
+
+.social{
+    margin-top: 40px;
+}
+
+.dialogoSugerencia{
+    font-size: 14px;
+}
+
+.relayerButton{
+    text-decoration: none;
+    color: lightslategray;
+}
+

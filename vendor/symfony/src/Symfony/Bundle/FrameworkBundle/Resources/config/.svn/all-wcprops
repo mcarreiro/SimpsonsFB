@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config
+END
+annotations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/annotations.xml
+END
+translation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/translation.xml
+END
+form.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/form.xml
+END
+templating.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/templating.xml
+END
+collectors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/collectors.xml
+END
+templating_debug.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/templating_debug.xml
+END
+templating_php.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/templating_php.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/web.xml
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/test.xml
+END
+form_csrf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/form_csrf.xml
+END
+esi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/esi.xml
+END
+session.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/session.xml
+END
+services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/services.xml
+END
+validator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/validator.xml
+END
+debug.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/debug.xml
+END
+routing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/routing.xml
+END
+profiling.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/profiling.xml
+END

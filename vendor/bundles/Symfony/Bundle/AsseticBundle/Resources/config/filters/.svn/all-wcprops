@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters
+END
+optipng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/optipng.xml
+END
+cssimport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/cssimport.xml
+END
+cssembed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/cssembed.xml
+END
+coffee.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/coffee.xml
+END
+cssrewrite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/cssrewrite.xml
+END
+cssmin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/cssmin.xml
+END
+jpegoptim.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/jpegoptim.xml
+END
+yui_js.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/yui_js.xml
+END
+stylus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/stylus.xml
+END
+compass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/compass.xml
+END
+less.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/less.xml
+END
+sass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/sass.xml
+END
+jpegtran.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/jpegtran.xml
+END
+scss.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/scss.xml
+END
+pngout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/pngout.xml
+END
+closure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/closure.xml
+END
+packager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/packager.xml
+END
+sprockets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/sprockets.xml
+END
+lessphp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/lessphp.xml
+END
+yui_css.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Resources/config/filters/yui_css.xml
+END

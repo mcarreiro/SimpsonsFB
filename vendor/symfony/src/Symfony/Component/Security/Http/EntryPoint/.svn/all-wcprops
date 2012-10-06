@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Http/EntryPoint
+END
+DigestAuthenticationEntryPoint.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Http/EntryPoint/DigestAuthenticationEntryPoint.php
+END
+AuthenticationEntryPointInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Http/EntryPoint/AuthenticationEntryPointInterface.php
+END
+BasicAuthenticationEntryPoint.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Http/EntryPoint/BasicAuthenticationEntryPoint.php
+END
+FormAuthenticationEntryPoint.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Http/EntryPoint/FormAuthenticationEntryPoint.php
+END
+RetryAuthenticationEntryPoint.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Http/EntryPoint/RetryAuthenticationEntryPoint.php
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter
+END
+CssRewriteFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/CssRewriteFilterTest.php
+END
+FilterCollectionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/FilterCollectionTest.php
+END
+CssMinFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/CssMinFilterTest.php
+END
+JpegoptimFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/JpegoptimFilterTest.php
+END
+StylusFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/StylusFilterTest.php
+END
+CompassFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/CompassFilterTest.php
+END
+LessFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/LessFilterTest.php
+END
+JpegtranFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/JpegtranFilterTest.php
+END
+CoffeeScriptFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/CoffeeScriptFilterTest.php
+END
+PngoutFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/PngoutFilterTest.php
+END
+PackagerFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/PackagerFilterTest.php
+END
+BaseImageFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/BaseImageFilterTest.php
+END
+SprocketsFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/SprocketsFilterTest.php
+END
+LessphpFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/LessphpFilterTest.php
+END
+OptiPngFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/OptiPngFilterTest.php
+END
+CallablesFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/CallablesFilterTest.php
+END
+CssImportFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/CssImportFilterTest.php
+END
+CssEmbedFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/CssEmbedFilterTest.php
+END

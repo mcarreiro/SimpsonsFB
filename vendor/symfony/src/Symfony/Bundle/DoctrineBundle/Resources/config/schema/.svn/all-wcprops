@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle/Resources/config/schema
+END
+doctrine-1.0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle/Resources/config/schema/doctrine-1.0.xsd
+END

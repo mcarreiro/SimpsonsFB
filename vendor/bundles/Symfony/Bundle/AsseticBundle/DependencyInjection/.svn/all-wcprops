@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/DependencyInjection
+END
+DirectoryResourceDefinition.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/DependencyInjection/DirectoryResourceDefinition.php
+END
+AsseticExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/DependencyInjection/AsseticExtension.php
+END
+MainConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/DependencyInjection/MainConfiguration.php
+END

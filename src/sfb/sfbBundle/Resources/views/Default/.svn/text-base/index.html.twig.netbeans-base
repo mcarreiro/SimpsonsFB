@@ -1,0 +1,31 @@
+{% extends '::base.html.twig' %}
+{% block body %}
+<div class="shadow">
+    <div class="buscador">
+            <div class="searchText">
+                <input action="{{ path('frases_search') }}" required="true" type="search" min="3" id="fraseBuscada" class="searchInput"value="Buscá tu frase..." 
+                       onclick="if(this.value=='Buscá tu frase...'){this.value=''}" onblur="if(this.value==''){this.value='Buscá tu frase...'}" onkeydown="if (event.keyCode == 13) document.getElementById('searchButton').click()"/>
+                <button style="top: 20px;"id="searchButton" class="searchButton" type="button" onclick="buscarFrases()"><img width="30px" height="30px" src="{{asset("images/lupita.png")}}"/></button>
+            </div>       
+    </div>
+</div>
+<div class="buttonWrapper">
+<a href="{{path('frase_new')}}" class="subirButton" >Subir nueva Frase!</a>
+</div>
+
+<br/>
+<img style="visibility: hidden" class="ajaxLoader" src="{{asset('images/ajax-loader.gif')}}"/>
+
+<div style="visibility: hidden" class="errorLength">La frase buscada es muy corta, por favor indique una con más longitud</div>
+
+<div class="noHayResultados" style="display: none;">Do'h! No existe esa frase. Súbela!</div>
+
+<div class="resultados"></div>
+
+<div  class="resultadoMail" style="display: none;">Se envió el mail!</div>
+
+<div id="new_div" style="display: none;"> </div>
+
+
+
+{% endblock %}

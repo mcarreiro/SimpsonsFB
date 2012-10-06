@@ -1,0 +1,22 @@
+{% extends '::base.html.twig' %}
+{% block body %}
+
+<div class="frase clearfix">
+    {% if entity.lenguaje %}
+            <img class="bandera" src="{{asset('images/banderas/Spain_flag_icon.png') }}"/>
+    {% else %}    
+            <img class="bandera" src="{{asset('images/banderas/mexico_flag_icon.jpg') }}"/>
+    {% endif %} 
+    <img href="{{path('frases_show', {'id':entity.id})}}" class="cabeza" src="{{asset('images/cabezas/' ~ entity.personaje.imagen) }}"/>
+    <div class="infoFrase">
+        <div class="frasePrincipal">{{ entity.nombre }}</div> <br/>
+        <div class="detalleFrase">Episodio: {{ entity.episodio.nombre }}<br/>
+       Temporada: {{ entity.episodio.temporada }}</div>
+     </div>  
+    <div class="botonesFrase">
+    <a class="modificacion" onclick="mandarSugerencia({{entity.id}})" >Enviar Sugerencia</a>
+    <span style="float:right" class='st_facebook_hcount' displayText='Facebook' st_url="http://simpsonsfb.com.ar/frase/show/{{entity.id}}"></span>
+    </div>
+</div> 
+
+{% endblock %}

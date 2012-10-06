@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Dbal
+END
+AclProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Dbal/AclProvider.php
+END
+Schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Dbal/Schema.php
+END
+MutableAclProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Acl/Dbal/MutableAclProvider.php
+END

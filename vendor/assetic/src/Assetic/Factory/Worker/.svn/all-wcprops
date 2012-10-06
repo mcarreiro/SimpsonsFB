@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Factory/Worker
+END
+WorkerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Factory/Worker/WorkerInterface.php
+END
+EnsureFilterWorker.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Factory/Worker/EnsureFilterWorker.php
+END

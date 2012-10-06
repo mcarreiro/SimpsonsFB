@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Asset
+END
+AssetCollectionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Asset/AssetCollectionTest.php
+END
+AssetReferenceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Asset/AssetReferenceTest.php
+END
+FileAssetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Asset/FileAssetTest.php
+END
+HttpAssetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Asset/HttpAssetTest.php
+END
+AssetCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Asset/AssetCacheTest.php
+END
+GlobAssetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Asset/GlobAssetTest.php
+END
+StringAssetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Asset/StringAssetTest.php
+END

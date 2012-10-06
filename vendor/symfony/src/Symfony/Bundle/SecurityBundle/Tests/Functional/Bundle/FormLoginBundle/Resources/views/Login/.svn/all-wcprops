@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/Bundle/FormLoginBundle/Resources/views/Login
+END
+login.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/Bundle/FormLoginBundle/Resources/views/Login/login.html.twig
+END
+after_login.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/Bundle/FormLoginBundle/Resources/views/Login/after_login.html.twig
+END

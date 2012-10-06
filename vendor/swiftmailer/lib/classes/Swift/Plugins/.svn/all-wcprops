@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/vendor/swiftmailer/lib/classes/Swift/Plugins
+END
+ThrottlerPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/vendor/swiftmailer/lib/classes/Swift/Plugins/ThrottlerPlugin.php
+END
+BandwidthMonitorPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/vendor/swiftmailer/lib/classes/Swift/Plugins/BandwidthMonitorPlugin.php
+END
+AntiFloodPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/vendor/swiftmailer/lib/classes/Swift/Plugins/AntiFloodPlugin.php
+END
+LoggerPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/vendor/swiftmailer/lib/classes/Swift/Plugins/LoggerPlugin.php
+END
+RedirectingPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/vendor/swiftmailer/lib/classes/Swift/Plugins/RedirectingPlugin.php
+END
+Logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/vendor/swiftmailer/lib/classes/Swift/Plugins/Logger.php
+END
+Sleeper.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/vendor/swiftmailer/lib/classes/Swift/Plugins/Sleeper.php
+END
+Timer.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/vendor/swiftmailer/lib/classes/Swift/Plugins/Timer.php
+END
+DecoratorPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/vendor/swiftmailer/lib/classes/Swift/Plugins/DecoratorPlugin.php
+END
+ReporterPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/vendor/swiftmailer/lib/classes/Swift/Plugins/ReporterPlugin.php
+END
+Reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/vendor/swiftmailer/lib/classes/Swift/Plugins/Reporter.php
+END
+MessageLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/vendor/swiftmailer/lib/classes/Swift/Plugins/MessageLogger.php
+END
+PopBeforeSmtpPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/vendor/swiftmailer/lib/classes/Swift/Plugins/PopBeforeSmtpPlugin.php
+END
+ImpersonatePlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/vendor/swiftmailer/lib/classes/Swift/Plugins/ImpersonatePlugin.php
+END

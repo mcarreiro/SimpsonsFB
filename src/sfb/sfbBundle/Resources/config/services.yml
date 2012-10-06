@@ -1,0 +1,7 @@
+parameters:
+#    sfb.example.class: sfb\sfbBundle\Example
+
+services:
+#    sfb.example:
+#        class: %sfb.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

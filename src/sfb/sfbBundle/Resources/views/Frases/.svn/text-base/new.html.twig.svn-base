@@ -1,0 +1,40 @@
+{% extends '::base.html.twig' %}
+{% block body %}
+<form id="newForm" action="{{ path('frase_create') }}" method="post" {{ form_enctype(form) }}>
+        
+        <!--{{ form_widget(form.nombre) }}
+        {{ form_widget(form.lenguaje) }}
+        {{ form_widget(form.personaje) }}
+         {# form_widget(form.temporada) #}
+        {{ form_widget(form.episodio) }}-->
+    
+    
+    
+        <textarea class="newFraseTextArea" name="frase" rows="8" cols="50"></textarea>
+         <select name="personajes" id="personajes">
+            {% for car in personajes %}
+                <option value={{car.id}}>{{car.nombre}}</option>
+            {% endfor %}   
+        </select>
+        
+        <select id="season" action="{{ path('getEpisodes') }}"   onchange="getEpisodes();">
+            <option value=0>Elegir Temporada...</option>
+            {% for i in 1..23%}
+                 <option value={{i}}>Temporada {{i}}</option>
+            {% endfor %}    
+        </select >
+        
+        <select name="episodios" id="episodios">
+	<option value=0>No Tiene Episodios</option>
+        </select>
+        
+        <select name="lenguaje" id="lenguaje">
+            <option value=0>Latino</option>
+            <option value=1>Español</option>
+        </select> 
+    <p>
+        <button class="subirButton" type="submit">Subir!</button>
+    </p>
+</form>
+
+{% endblock %}

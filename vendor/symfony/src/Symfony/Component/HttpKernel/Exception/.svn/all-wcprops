@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpKernel/Exception
+END
+MethodNotAllowedHttpException.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpKernel/Exception/MethodNotAllowedHttpException.php
+END
+AccessDeniedHttpException.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpKernel/Exception/AccessDeniedHttpException.php
+END
+NotFoundHttpException.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpKernel/Exception/NotFoundHttpException.php
+END
+FlattenException.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpKernel/Exception/FlattenException.php
+END
+HttpException.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpKernel/Exception/HttpException.php
+END
+HttpExceptionInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpKernel/Exception/HttpExceptionInterface.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/Loader
+END
+ClosureLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/Loader/ClosureLoader.php
+END
+FileLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/Loader/FileLoader.php
+END
+IniFileLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/Loader/IniFileLoader.php
+END
+XmlFileLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/Loader/XmlFileLoader.php
+END
+YamlFileLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php
+END
+PhpFileLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/Loader/PhpFileLoader.php
+END

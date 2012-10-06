@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping
+END
+ClassMetadataFactoryInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/ClassMetadataFactoryInterface.php
+END
+PropertyMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/PropertyMetadata.php
+END
+ClassMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/ClassMetadata.php
+END
+MemberMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/MemberMetadata.php
+END
+ElementMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/ElementMetadata.php
+END
+GetterMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/GetterMetadata.php
+END
+BlackholeMetadataFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/BlackholeMetadataFactory.php
+END
+ClassMetadataFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Validator/Mapping/ClassMetadataFactory.php
+END

@@ -1,0 +1,1403 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region
+END
+tr.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/tr.res
+END
+af.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/af.res
+END
+pt_PT.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/pt_PT.res
+END
+rof.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/rof.res
+END
+sr_RS.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr_RS.res
+END
+ee.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ee.res
+END
+ses.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ses.res
+END
+id.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/id.res
+END
+xog.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/xog.res
+END
+ar.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ar.res
+END
+mg.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/mg.res
+END
+eo.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/eo.res
+END
+uz_Cyrl_UZ.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/uz_Cyrl_UZ.res
+END
+in.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/in.res
+END
+mk.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/mk.res
+END
+mfe.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/mfe.res
+END
+es.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/es.res
+END
+eu.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/eu.res
+END
+az.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/az.res
+END
+zh_Hans_CN.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/zh_Hans_CN.res
+END
+mo.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/mo.res
+END
+it.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/it.res
+END
+sh_BA.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sh_BA.res
+END
+zh_MO.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/zh_MO.res
+END
+ms.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ms.res
+END
+uk.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/uk.res
+END
+sr_Latn_ME.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr_Latn_ME.res
+END
+uz_Arab.res
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/uz_Arab.res
+END
+my.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/my.res
+END
+be.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/be.res
+END
+bg.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/bg.res
+END
+pa_Guru_IN.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/pa_Guru_IN.res
+END
+uz_Arab_AF.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/uz_Arab_AF.res
+END
+ja.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ja.res
+END
+zh_Hans.res
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/zh_Hans.res
+END
+ff.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ff.res
+END
+bm.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/bm.res
+END
+nb.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/nb.res
+END
+cgg.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/cgg.res
+END
+bo.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/bo.res
+END
+nd.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/nd.res
+END
+lag.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/lag.res
+END
+iw_IL.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/iw_IL.res
+END
+bem.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/bem.res
+END
+bs.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/bs.res
+END
+asa.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/asa.res
+END
+sr_Latn_BA.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr_Latn_BA.res
+END
+zh_Hant_TW.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/zh_Hant_TW.res
+END
+fr.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/fr.res
+END
+nl.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/nl.res
+END
+jmc.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/jmc.res
+END
+fil.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/fil.res
+END
+nn.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/nn.res
+END
+rm.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/rm.res
+END
+haw.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/haw.res
+END
+sr_Cyrl_BA.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr_Cyrl_BA.res
+END
+ro.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ro.res
+END
+in_ID.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/in_ID.res
+END
+root.res
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/root.res
+END
+kok.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/kok.res
+END
+ru.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ru.res
+END
+ga.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ga.res
+END
+ha_Latn_NE.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ha_Latn_NE.res
+END
+rw.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/rw.res
+END
+ha_Latn_NG.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ha_Latn_NG.res
+END
+zu.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/zu.res
+END
+fil_PH.res
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/fil_PH.res
+END
+shi_Latn.res
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/shi_Latn.res
+END
+zh_CN.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/zh_CN.res
+END
+kde.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/kde.res
+END
+nyn.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/nyn.res
+END
+kl.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/kl.res
+END
+sr_Latn_RS.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr_Latn_RS.res
+END
+kn.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/kn.res
+END
+sh.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sh.res
+END
+gu.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/gu.res
+END
+om.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/om.res
+END
+chr.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/chr.res
+END
+sr_Cyrl.res
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr_Cyrl.res
+END
+sl.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sl.res
+END
+pa_Arab_PK.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/pa_Arab_PK.res
+END
+he_IL.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/he_IL.res
+END
+sn.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sn.res
+END
+sr_Cyrl_RS.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr_Cyrl_RS.res
+END
+da.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/da.res
+END
+ha_Latn_GH.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ha_Latn_GH.res
+END
+sr.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr.res
+END
+de.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/de.res
+END
+sv.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sv.res
+END
+nb_NO.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/nb_NO.res
+END
+kk_Cyrl.res
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/kk_Cyrl.res
+END
+th_TH_TRADITIONAL.res
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/th_TH_TRADITIONAL.res
+END
+sr_YU.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr_YU.res
+END
+lg.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/lg.res
+END
+pa_Guru.res
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/pa_Guru.res
+END
+sr_Latn.res
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr_Latn.res
+END
+ta.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ta.res
+END
+ha_Latn.res
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ha_Latn.res
+END
+kam.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/kam.res
+END
+id_ID.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/id_ID.res
+END
+te.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/te.res
+END
+hr.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/hr.res
+END
+ha_NE.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ha_NE.res
+END
+pl.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/pl.res
+END
+ha_NG.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ha_NG.res
+END
+ti.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ti.res
+END
+uz_UZ.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/uz_UZ.res
+END
+ja_JP_TRADITIONAL.res
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ja_JP_TRADITIONAL.res
+END
+no_NO_NY.res
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/no_NO_NY.res
+END
+seh.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/seh.res
+END
+en_ZW.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/en_ZW.res
+END
+to.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/to.res
+END
+ja_JP.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ja_JP.res
+END
+pt.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/pt.res
+END
+saq.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/saq.res
+END
+ak.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ak.res
+END
+zh_TW.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/zh_TW.res
+END
+am.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/am.res
+END
+ig.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ig.res
+END
+el.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/el.res
+END
+ii.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ii.res
+END
+de_CH.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/de_CH.res
+END
+en.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/en.res
+END
+as.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/as.res
+END
+rwk.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/rwk.res
+END
+guz.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/guz.res
+END
+ha_GH.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ha_GH.res
+END
+ml.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ml.res
+END
+et.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/et.res
+END
+sr_CS.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr_CS.res
+END
+is.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/is.res
+END
+ebu.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ebu.res
+END
+zh_Hant_HK.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/zh_Hant_HK.res
+END
+mr.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/mr.res
+END
+shi_Latn_MA.res
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/shi_Latn_MA.res
+END
+nl_BE.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/nl_BE.res
+END
+iw.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/iw.res
+END
+mt.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/mt.res
+END
+zh_Hans_SG.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/zh_Hans_SG.res
+END
+pa_Arab.res
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/pa_Arab.res
+END
+fa.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/fa.res
+END
+ur.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ur.res
+END
+sh_YU.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sh_YU.res
+END
+tzm_MA.res
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/tzm_MA.res
+END
+yo.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/yo.res
+END
+zh_Hant.res
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/zh_Hant.res
+END
+fi.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/fi.res
+END
+uz.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/uz.res
+END
+bn.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/bn.res
+END
+ro_MD.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ro_MD.res
+END
+ne.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ne.res
+END
+fo.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/fo.res
+END
+tzm_Latn_MA.res
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/tzm_Latn_MA.res
+END
+dav.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/dav.res
+END
+no.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/no.res
+END
+vi.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/vi.res
+END
+naq.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/naq.res
+END
+sr_Latn_YU.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr_Latn_YU.res
+END
+bez.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/bez.res
+END
+zh.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/zh.res
+END
+ca.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ca.res
+END
+zh_Hant_MO.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/zh_Hant_MO.res
+END
+teo.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/teo.res
+END
+tzm_Latn.res
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/tzm_Latn.res
+END
+pa_PK.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/pa_PK.res
+END
+sr_Cyrl_YU.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr_Cyrl_YU.res
+END
+ka.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ka.res
+END
+fa_AF.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/fa_AF.res
+END
+luo.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/luo.res
+END
+sh_CS.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sh_CS.res
+END
+gsw.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/gsw.res
+END
+shi_Tfng.res
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/shi_Tfng.res
+END
+gl.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/gl.res
+END
+ki.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ki.res
+END
+az_Cyrl.res
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/az_Cyrl.res
+END
+az_AZ.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/az_AZ.res
+END
+uz_AF.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/uz_AF.res
+END
+kk.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/kk.res
+END
+cs.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/cs.res
+END
+sr_ME.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr_ME.res
+END
+km.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/km.res
+END
+no_NO.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/no_NO.res
+END
+vun.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/vun.res
+END
+luy.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/luy.res
+END
+ko.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ko.res
+END
+sg.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sg.res
+END
+zh_SG.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/zh_SG.res
+END
+cy.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/cy.res
+END
+si.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/si.res
+END
+gv.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/gv.res
+END
+sk.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sk.res
+END
+or.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/or.res
+END
+kw.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/kw.res
+END
+so.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/so.res
+END
+az_Latn_AZ.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/az_Latn_AZ.res
+END
+khq.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/khq.res
+END
+shi.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/shi.res
+END
+sq.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sq.res
+END
+kln.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/kln.res
+END
+es_CL.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/es_CL.res
+END
+pa_IN.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/pa_IN.res
+END
+sr_BA.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr_BA.res
+END
+sr_Latn_CS.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr_Latn_CS.res
+END
+uz_Cyrl.res
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/uz_Cyrl.res
+END
+az_Latn.res
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/az_Latn.res
+END
+ha.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ha.res
+END
+sw.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sw.res
+END
+en_RH.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/en_RH.res
+END
+he.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/he.res
+END
+kab.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/kab.res
+END
+kea.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/kea.res
+END
+hi.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/hi.res
+END
+pa.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/pa.res
+END
+shi_MA.res
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/shi_MA.res
+END
+kk_Cyrl_KZ.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/kk_Cyrl_KZ.res
+END
+sr_Cyrl_CS.res
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sr_Cyrl_CS.res
+END
+zh_HK.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/zh_HK.res
+END
+sv_FI.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/sv_FI.res
+END
+th_TH.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/th_TH.res
+END
+tl_PH.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/tl_PH.res
+END
+nn_NO.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/nn_NO.res
+END
+kk_KZ.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/kk_KZ.res
+END
+tzm.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/tzm.res
+END
+th.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/th.res
+END
+hu.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/hu.res
+END
+uz_Latn.res
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/uz_Latn.res
+END
+lt.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/lt.res
+END
+tl.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/tl.res
+END
+mas.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/mas.res
+END
+hy.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/hy.res
+END
+lv.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/lv.res
+END
+ps.res
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/ps.res
+END
+mer.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Locale/Resources/data/region/mer.res
+END

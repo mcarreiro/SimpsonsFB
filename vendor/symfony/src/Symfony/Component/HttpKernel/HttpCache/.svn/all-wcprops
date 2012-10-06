@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpKernel/HttpCache
+END
+Esi.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpKernel/HttpCache/Esi.php
+END
+HttpCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpKernel/HttpCache/HttpCache.php
+END
+EsiResponseCacheStrategy.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpKernel/HttpCache/EsiResponseCacheStrategy.php
+END
+EsiResponseCacheStrategyInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpKernel/HttpCache/EsiResponseCacheStrategyInterface.php
+END
+Store.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpKernel/HttpCache/Store.php
+END
+StoreInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpKernel/HttpCache/StoreInterface.php
+END

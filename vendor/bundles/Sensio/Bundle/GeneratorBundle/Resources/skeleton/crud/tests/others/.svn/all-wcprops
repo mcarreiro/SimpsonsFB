@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/bundles/Sensio/Bundle/GeneratorBundle/Resources/skeleton/crud/tests/others
+END
+short_scenario.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/vendor/bundles/Sensio/Bundle/GeneratorBundle/Resources/skeleton/crud/tests/others/short_scenario.php
+END
+full_scenario.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/vendor/bundles/Sensio/Bundle/GeneratorBundle/Resources/skeleton/crud/tests/others/full_scenario.php
+END

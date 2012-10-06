@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/vendor/doctrine-dbal/lib/Doctrine/DBAL/Driver/OCI8
+END
+OCI8Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/vendor/doctrine-dbal/lib/Doctrine/DBAL/Driver/OCI8/OCI8Exception.php
+END
+OCI8Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/vendor/doctrine-dbal/lib/Doctrine/DBAL/Driver/OCI8/OCI8Connection.php
+END
+OCI8Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/vendor/doctrine-dbal/lib/Doctrine/DBAL/Driver/OCI8/OCI8Statement.php
+END
+Driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/vendor/doctrine-dbal/lib/Doctrine/DBAL/Driver/OCI8/Driver.php
+END

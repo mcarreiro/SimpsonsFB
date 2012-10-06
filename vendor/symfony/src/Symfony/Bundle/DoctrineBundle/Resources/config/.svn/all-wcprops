@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle/Resources/config
+END
+orm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle/Resources/config/orm.xml
+END
+dbal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle/Resources/config/dbal.xml
+END

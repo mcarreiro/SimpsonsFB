@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Util
+END
+ProcessBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Util/ProcessBuilder.php
+END
+Process.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Util/Process.php
+END
+TraversableString.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Util/TraversableString.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Factory/Loader
+END
+FormulaLoaderInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Factory/Loader/FormulaLoaderInterface.php
+END
+BasePhpFormulaLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Factory/Loader/BasePhpFormulaLoader.php
+END
+FunctionCallsFormulaLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Factory/Loader/FunctionCallsFormulaLoader.php
+END
+CachedFormulaLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Factory/Loader/CachedFormulaLoader.php
+END

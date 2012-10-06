@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/fixtures/cssimport
+END
+more.sass
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/fixtures/cssimport/more.sass
+END
+main.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/fixtures/cssimport/main.css
+END
+import.css
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/fixtures/cssimport/import.css
+END
+noncssimport.css
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Filter/fixtures/cssimport/noncssimport.css
+END

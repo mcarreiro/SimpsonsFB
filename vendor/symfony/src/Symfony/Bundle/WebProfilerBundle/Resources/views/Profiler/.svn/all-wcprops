@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Profiler
+END
+toolbar_redirect.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Profiler/toolbar_redirect.html.twig
+END
+search.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Profiler/search.html.twig
+END
+admin.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Profiler/admin.html.twig
+END
+header.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Profiler/header.html.twig
+END
+bag.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Profiler/bag.html.twig
+END
+base.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Profiler/base.html.twig
+END
+notfound.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Profiler/notfound.html.twig
+END
+layout.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Profiler/layout.html.twig
+END
+toolbar_js.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Profiler/toolbar_js.html.twig
+END
+toolbar_item.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Profiler/toolbar_item.html.twig
+END
+results.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Profiler/results.html.twig
+END
+toolbar.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Profiler/toolbar.html.twig
+END

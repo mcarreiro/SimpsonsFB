@@ -1,0 +1,94 @@
+10
+
+dir
+14
+https://sfb.googlecode.com/svn/trunk/vendor/symfony/src/Symfony/Component
+https://sfb.googlecode.com/svn
+
+
+
+2012-06-30T01:53:20.756906Z
+2
+martin301290@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2edba8d5-3ba5-53fb-f71c-cbc8069e94ea
+
+BrowserKit
+dir
+
+ClassLoader
+dir
+
+Config
+dir
+
+Console
+dir
+
+CssSelector
+dir
+
+DependencyInjection
+dir
+
+DomCrawler
+dir
+
+EventDispatcher
+dir
+
+Filesystem
+dir
+
+Finder
+dir
+
+Form
+dir
+
+HttpFoundation
+dir
+
+HttpKernel
+dir
+
+Locale
+dir
+
+Process
+dir
+
+Routing
+dir
+
+Security
+dir
+
+Serializer
+dir
+
+Templating
+dir
+
+Translation
+dir
+
+Validator
+dir
+
+Yaml
+dir
+

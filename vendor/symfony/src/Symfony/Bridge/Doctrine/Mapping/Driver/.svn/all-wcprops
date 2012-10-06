@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bridge/Doctrine/Mapping/Driver
+END
+XmlDriver.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bridge/Doctrine/Mapping/Driver/XmlDriver.php
+END
+YamlDriver.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bridge/Doctrine/Mapping/Driver/YamlDriver.php
+END

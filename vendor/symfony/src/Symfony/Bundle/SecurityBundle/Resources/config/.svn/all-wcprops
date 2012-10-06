@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Resources/config
+END
+security_acl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Resources/config/security_acl.xml
+END
+security_factories.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Resources/config/security_factories.xml
+END
+security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Resources/config/security.xml
+END
+security_rememberme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Resources/config/security_rememberme.xml
+END
+security_acl_dbal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Resources/config/security_acl_dbal.xml
+END
+collectors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Resources/config/collectors.xml
+END
+templating_php.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Resources/config/templating_php.xml
+END
+templating_twig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Resources/config/templating_twig.xml
+END
+security_listeners.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Resources/config/security_listeners.xml
+END

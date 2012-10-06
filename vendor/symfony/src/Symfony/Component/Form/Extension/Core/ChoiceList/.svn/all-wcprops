@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/Extension/Core/ChoiceList
+END
+TimezoneChoiceList.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/Extension/Core/ChoiceList/TimezoneChoiceList.php
+END
+ArrayChoiceList.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/Extension/Core/ChoiceList/ArrayChoiceList.php
+END
+ChoiceListInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/Extension/Core/ChoiceList/ChoiceListInterface.php
+END
+PaddedChoiceList.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/Extension/Core/ChoiceList/PaddedChoiceList.php
+END
+MonthChoiceList.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/Extension/Core/ChoiceList/MonthChoiceList.php
+END

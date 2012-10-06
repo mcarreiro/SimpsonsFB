@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+	<meta property="og:title" content="{% if entity is defined%}{{entity.nombre}}{%else%} SimpsonsFB - Todas las frases de los simpsons! {% endif %}"/> 
+	<meta property="og:image" content="http://simpsonsfb.com.ar{% if entity is defined and entity.personaje != "" and entity.personaje is defined%}{{asset('images/cabezas/' ~ entity.personaje.imagen) }}{%else%}{{asset('images/cabezas/homero.png') }} {% endif %}"/>
+	<meta property="og:url" content="{% if entity is defined%}http://simpsonsfb.com.ar/frase/show/{{ entity.id}} {%else%} http://simpsonsfb.com.ar/ {% endif %}" />
+                  <meta property="og:tag name" content="tag value"/> 
+                  <meta property="og:site_name" content="simpsonsFB"/>
+	<meta property="og:type" content="blog"/>
+	<meta property="og:description" content="{% if entity is defined%}{{entity.nombre}}{%else%} Todas las frases de los simpsons! {% endif %}"/>
+<meta name="description" content="{% if entity is defined%}{{entity.nombre}}{%else%} Todas las frases de los simpsons! {% endif %}" />
+
+        <title>{% block title %}SimpsonsFB{% endblock %}</title>
+        {% block stylesheets %}
+            <link href="{{ asset('css/main.css') }}" rel="stylesheet" type="text/css" />
+            <link href="{{ asset('css/jquery-ui-1.8.21.custom.css') }}" rel="stylesheet" type="text/css" />
+        {% endblock %}
+            <link rel="shortcut icon" href="{{ asset('images/favicon.ico') }}" />
+    </head>
+    <body>
+        {% javascripts 'js/main.js' 'js/jquery-1.7.1.min.js' 'js/jquery-ui-1.8.21.custom.min.js' %}
+            <script src="{{ asset('js/main.js') }}" type="text/javascript"></script>
+            <script src="{{ asset('js/jquery-1.7.1.min.js') }}" type="text/javascript"></script>
+            <script src="{{ asset('js/jquery-ui-1.8.21.custom.min.js') }}" type="text/javascript"></script>
+<!-- Twitter -->            
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<!-- Google Plus -->            
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+ var images = "{{ asset('images/') }}";
+ </script>
+ <!-- Share This -->
+ <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "3f55d05e-df0c-4121-bbec-eb4bf6f5729e"}); </script>
+<!-- Google Analytics -->
+ <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33754055-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+        {% endjavascripts %}
+        
+            <div class="header">
+                <a href="{{path('home')}}"><img src="{{ asset('images/titulo.png') }}"/></a> <br/>         
+            </div>
+            <div class="social">
+                <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.simpsonsfb.com.ar&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=255995561152997" scrolling="no" frameborder="0" style="margin-left:50px!important;margin-right: -310px;border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>
+                <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.simpsonsfb.com.ar" data-text="Todas las frases de los Simpsons para compartir en:" data-hashtags="FrasesSimpsons">Tweet</a>
+                <g:plusone size="medium"></g:plusone>  
+            {% block body %}{% endblock %}
+            </div>   
+            {% block footer %}
+            <div class="footer">
+                Todos los derechos reservados a esta y tu vieja
+            </div>
+            {% endblock %}
+         <div class="dialogoSugerencia"id="dialogoSugerencia" title="Enviar Sugerencia" style="display: none;">
+    <form id="mailForm"action="{{path('enviarSugerencia')}}"><br/>
+        <div name="idFrase" id="idFrase"></div>    
+        <textarea name="sugerencia"class="sugerencia" id="sugerencia" ></textarea>
+        <button class="enviarMail" onclick="mandarMail()" type="button">Enviar</button>
+    </form>
+</div>   
+    </body>
+</html>

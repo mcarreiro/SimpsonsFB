@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/vendor/bundles/JMS/SecurityExtraBundle/Tests/Security/Authorization/AfterInvocation
+END
+AclAfterInvocationProviderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/2/trunk/vendor/bundles/JMS/SecurityExtraBundle/Tests/Security/Authorization/AfterInvocation/AclAfterInvocationProviderTest.php
+END
+AfterInvocationManagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/2/trunk/vendor/bundles/JMS/SecurityExtraBundle/Tests/Security/Authorization/AfterInvocation/AfterInvocationManagerTest.php
+END

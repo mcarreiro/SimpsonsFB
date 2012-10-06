@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/Authorization/Voter
+END
+RoleHierarchyVoter.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/Authorization/Voter/RoleHierarchyVoter.php
+END
+VoterInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/Authorization/Voter/VoterInterface.php
+END
+RoleVoter.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/Authorization/Voter/RoleVoter.php
+END
+AuthenticatedVoter.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/Authorization/Voter/AuthenticatedVoter.php
+END

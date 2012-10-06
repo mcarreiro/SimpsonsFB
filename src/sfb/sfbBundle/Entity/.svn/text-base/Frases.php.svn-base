@@ -1,0 +1,146 @@
+<?php
+
+namespace sfb\sfbBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * sfb\sfbBundle\Entity\Frases
+ *
+ * @ORM\Table()
+ * @ORM\Entity
+ */
+class Frases
+{
+    /**
+     * @var integer $id
+     *
+     * @ORM\Column(name="id", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="AUTO")
+     */
+    private $id;
+
+    /**
+     * @var string $nombre
+     *
+     * @ORM\Column(name="nombre", type="text", length=255)
+     */
+    private $nombre;
+
+    /**
+     * @var float $lenguaje
+     *
+     * @ORM\Column(name="lenguaje", type="float")
+     */
+    private $lenguaje;
+    
+    
+   /**
+     * @var float $lenguaje
+     *
+     * @ORM\ManyToOne(targetEntity="Episodios", inversedBy="frases")
+     * @ORM\JoinColumn(name="episodio_id", referencedColumnName="id")
+     */
+    private $episodio;
+    
+    /**
+     * @var float $lenguaje
+     *
+     * @ORM\ManyToOne(targetEntity="Personajes", inversedBy="frases")
+     * @ORM\JoinColumn(name="personaje_id", referencedColumnName="id")
+     */
+    private $personaje;
+
+
+    /**
+     * Get id
+     *
+     * @return integer 
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set nombre
+     *
+     * @param string $nombre
+     */
+    public function setNombre($nombre)
+    {
+        $this->nombre = $nombre;
+    }
+
+    /**
+     * Get nombre
+     *
+     * @return string 
+     */
+    public function getNombre()
+    {
+        return $this->nombre;
+    }
+
+    /**
+     * Set lenguaje
+     *
+     * @param float $lenguaje
+     */
+    public function setLenguaje($lenguaje)
+    {
+        $this->lenguaje = $lenguaje;
+    }
+
+    /**
+     * Get lenguaje
+     *
+     * @return float 
+     */
+    public function getLenguaje()
+    {
+        return $this->lenguaje;
+    }
+
+    /**
+     * Set episodio
+     *
+     * @param sfb\sfbBundle\Entity\Episodios $episodio
+     */
+    public function setEpisodio(\sfb\sfbBundle\Entity\Episodios $episodio)
+    {
+        $this->episodio = $episodio;
+    }
+
+    /**
+     * Get episodio
+     *
+     * @return sfb\sfbBundle\Entity\Episodios 
+     */
+    public function getEpisodio()
+    {
+        return $this->episodio;
+    }
+
+    /**
+     * Set personaje
+     *
+     * @param sfb\sfbBundle\Entity\Personajes $personaje
+     */
+    public function setPersonaje(\sfb\sfbBundle\Entity\Personajes $personaje)
+    {
+        $this->personaje = $personaje;
+    }
+
+    /**
+     * Get personaje
+     *
+     * @return sfb\sfbBundle\Entity\Personajes 
+     */
+    public function getPersonaje()
+    {
+        return $this->personaje;
+    }
+
+}

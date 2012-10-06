@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/vendor/bundles/Sensio/Bundle/FrameworkExtraBundle/Resources/config
+END
+annotations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/vendor/bundles/Sensio/Bundle/FrameworkExtraBundle/Resources/config/annotations.xml
+END
+cache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/vendor/bundles/Sensio/Bundle/FrameworkExtraBundle/Resources/config/cache.xml
+END
+routing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/bundles/Sensio/Bundle/FrameworkExtraBundle/Resources/config/routing.xml
+END
+converters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/bundles/Sensio/Bundle/FrameworkExtraBundle/Resources/config/converters.xml
+END
+view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/bundles/Sensio/Bundle/FrameworkExtraBundle/Resources/config/view.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle
+END
+ConnectionFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle/ConnectionFactory.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle/Registry.php
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle/LICENSE
+END
+DoctrineBundle.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle/DoctrineBundle.php
+END

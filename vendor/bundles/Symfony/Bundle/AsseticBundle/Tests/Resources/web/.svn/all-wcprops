@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Tests/Resources/web
+END
+stylesheet1.css
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Tests/Resources/web/stylesheet1.css
+END
+javascript1.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Tests/Resources/web/javascript1.js
+END
+stylesheet2.css
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Tests/Resources/web/stylesheet2.css
+END
+javascript2.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/bundles/Symfony/Bundle/AsseticBundle/Tests/Resources/web/javascript2.js
+END

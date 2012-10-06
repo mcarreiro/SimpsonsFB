@@ -1,0 +1,38 @@
+#sfbBundle:
+  #  resource: "@sfbBundle/Resources/config/routing.yml"
+   # prefix:   /
+
+# Internal routing configuration to handle ESI
+#_internal:
+#   resource: "@FrameworkBundle/Resources/config/routing/internal.xml"
+#   prefix:   /_internal
+
+home:
+    pattern:  /home
+    defaults: { _controller: sfbBundle:Default:index}
+
+frases_search:
+    pattern:  /frase/search
+    defaults: { _controller: sfbBundle:Default:search, _format: json}
+
+frase_create:
+    pattern:  /frase/agregar
+    defaults: { _controller: sfbBundle:Frases:create}
+
+frase_new:
+    pattern:  /frase/nuevo
+    defaults: { _controller: sfbBundle:Frases:new}
+
+getEpisodes:
+    pattern:  /episodes/
+    defaults: { _controller: sfbBundle:Default:getEpisodes, _format: json}
+
+frases_show:
+    pattern:  /frase/show/{id}
+    defaults: { _controller: sfbBundle:Frases:show}
+
+enviarSugerencia:
+    pattern: /sugerencia
+    defaults: { _controller: sfbBundle:Default:enviarSugerencia}
+    
+

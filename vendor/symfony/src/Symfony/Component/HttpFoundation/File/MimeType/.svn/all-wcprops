@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpFoundation/File/MimeType
+END
+MimeTypeGuesser.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpFoundation/File/MimeType/MimeTypeGuesser.php
+END
+MimeTypeGuesserInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpFoundation/File/MimeType/MimeTypeGuesserInterface.php
+END
+FileBinaryMimeTypeGuesser.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpFoundation/File/MimeType/FileBinaryMimeTypeGuesser.php
+END
+FileinfoMimeTypeGuesser.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpFoundation/File/MimeType/FileinfoMimeTypeGuesser.php
+END
+ContentTypeMimeTypeGuesser.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/HttpFoundation/File/MimeType/ContentTypeMimeTypeGuesser.php
+END

@@ -1,0 +1,61 @@
+10
+
+dir
+14
+https://sfb.googlecode.com/svn/trunk/vendor
+https://sfb.googlecode.com/svn
+
+
+
+2012-06-30T01:53:20.756906Z
+2
+martin301290@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2edba8d5-3ba5-53fb-f71c-cbc8069e94ea
+
+assetic
+dir
+
+bundles
+dir
+
+doctrine
+dir
+
+doctrine-common
+dir
+
+doctrine-dbal
+dir
+
+metadata
+dir
+
+monolog
+dir
+
+swiftmailer
+dir
+
+symfony
+dir
+
+twig
+dir
+
+twig-extensions
+dir
+

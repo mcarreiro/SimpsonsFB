@@ -1,0 +1,80 @@
+10
+
+dir
+14
+https://sfb.googlecode.com/svn/trunk/vendor/symfony/src/Symfony/Component/Form/Extension/Core
+https://sfb.googlecode.com/svn
+
+
+
+2012-06-30T01:53:20.756906Z
+2
+martin301290@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2edba8d5-3ba5-53fb-f71c-cbc8069e94ea
+
+ChoiceList
+dir
+
+CoreExtension.php
+file
+
+
+
+
+2012-05-30T17:04:06.000000Z
+82364055c5fe49c4f8890a800347bcdb
+2012-06-30T01:53:20.756906Z
+2
+martin301290@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1611
+
+DataMapper
+dir
+
+DataTransformer
+dir
+
+EventListener
+dir
+
+Type
+dir
+
+Validator
+dir
+

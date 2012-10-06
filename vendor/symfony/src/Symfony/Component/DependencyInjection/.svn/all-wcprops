@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection
+END
+Container.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/Container.php
+END
+ContainerAwareInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/ContainerAwareInterface.php
+END
+SimpleXMLElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/SimpleXMLElement.php
+END
+Variable.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/Variable.php
+END
+Definition.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/Definition.php
+END
+ContainerBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/ContainerBuilder.php
+END
+Alias.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/Alias.php
+END
+ScopeInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/ScopeInterface.php
+END
+DefinitionDecorator.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/DefinitionDecorator.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/LICENSE
+END
+Reference.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/Reference.php
+END
+ContainerAware.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/ContainerAware.php
+END
+ContainerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/ContainerInterface.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/README.md
+END
+Scope.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/Scope.php
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/composer.json
+END
+TaggedContainerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/TaggedContainerInterface.php
+END
+Parameter.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/DependencyInjection/Parameter.php
+END

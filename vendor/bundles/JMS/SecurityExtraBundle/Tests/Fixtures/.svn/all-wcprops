@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/vendor/bundles/JMS/SecurityExtraBundle/Tests/Fixtures
+END
+ComplexService.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/bundles/JMS/SecurityExtraBundle/Tests/Fixtures/ComplexService.php
+END
+SubService.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/vendor/bundles/JMS/SecurityExtraBundle/Tests/Fixtures/SubService.php
+END
+CorrectSubService.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/vendor/bundles/JMS/SecurityExtraBundle/Tests/Fixtures/CorrectSubService.php
+END
+AbstractMethodNotDirectlyOverwrittenInDirectChildService.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/2/trunk/vendor/bundles/JMS/SecurityExtraBundle/Tests/Fixtures/AbstractMethodNotDirectlyOverwrittenInDirectChildService.php
+END
+MainService.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/vendor/bundles/JMS/SecurityExtraBundle/Tests/Fixtures/MainService.php
+END

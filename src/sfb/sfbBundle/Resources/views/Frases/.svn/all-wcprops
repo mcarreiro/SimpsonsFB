@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/src/sfb/sfbBundle/Resources/views/Frases
+END
+edit.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/src/sfb/sfbBundle/Resources/views/Frases/edit.html.twig
+END
+show.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/src/sfb/sfbBundle/Resources/views/Frases/show.html.twig
+END
+new.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/src/sfb/sfbBundle/Resources/views/Frases/new.html.twig
+END
+index.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/src/sfb/sfbBundle/Resources/views/Frases/index.html.twig
+END

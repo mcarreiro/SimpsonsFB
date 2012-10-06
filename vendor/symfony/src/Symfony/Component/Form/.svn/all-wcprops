@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form
+END
+Form.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/Form.php
+END
+AbstractType.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/AbstractType.php
+END
+FormTypeGuesserChain.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/FormTypeGuesserChain.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/README.md
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/composer.json
+END
+FormBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/FormBuilder.php
+END
+FormFactoryInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/FormFactoryInterface.php
+END
+FormError.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/FormError.php
+END
+DataTransformerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/DataTransformerInterface.php
+END
+CallbackTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/CallbackTransformer.php
+END
+FormExtensionInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/FormExtensionInterface.php
+END
+FormTypeExtensionInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/FormTypeExtensionInterface.php
+END
+FormInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/FormInterface.php
+END
+FormTypeGuesserInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/FormTypeGuesserInterface.php
+END
+FormTypeInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/FormTypeInterface.php
+END
+FormEvents.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/FormEvents.php
+END
+FormValidatorInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/FormValidatorInterface.php
+END
+FormFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/FormFactory.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/LICENSE
+END
+FormView.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/FormView.php
+END
+DataMapperInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/DataMapperInterface.php
+END
+AbstractExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/AbstractExtension.php
+END
+CallbackValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/CallbackValidator.php
+END
+AbstractTypeExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/AbstractTypeExtension.php
+END
+ReversedTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/ReversedTransformer.php
+END

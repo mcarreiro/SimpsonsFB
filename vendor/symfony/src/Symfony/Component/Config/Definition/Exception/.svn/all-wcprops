@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/Exception
+END
+InvalidConfigurationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/Exception/InvalidConfigurationException.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/Exception/Exception.php
+END
+DuplicateKeyException.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/Exception/DuplicateKeyException.php
+END
+ForbiddenOverwriteException.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/Exception/ForbiddenOverwriteException.php
+END
+UnsetKeyException.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/Exception/UnsetKeyException.php
+END
+InvalidTypeException.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/Exception/InvalidTypeException.php
+END

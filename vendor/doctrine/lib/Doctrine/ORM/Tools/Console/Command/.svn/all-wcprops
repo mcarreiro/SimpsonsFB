@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/vendor/doctrine/lib/Doctrine/ORM/Tools/Console/Command
+END
+GenerateProxiesCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/doctrine/lib/Doctrine/ORM/Tools/Console/Command/GenerateProxiesCommand.php
+END
+RunDqlCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/doctrine/lib/Doctrine/ORM/Tools/Console/Command/RunDqlCommand.php
+END
+EnsureProductionSettingsCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/vendor/doctrine/lib/Doctrine/ORM/Tools/Console/Command/EnsureProductionSettingsCommand.php
+END
+ConvertDoctrine1SchemaCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/vendor/doctrine/lib/Doctrine/ORM/Tools/Console/Command/ConvertDoctrine1SchemaCommand.php
+END
+ValidateSchemaCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/doctrine/lib/Doctrine/ORM/Tools/Console/Command/ValidateSchemaCommand.php
+END
+InfoCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/vendor/doctrine/lib/Doctrine/ORM/Tools/Console/Command/InfoCommand.php
+END
+ConvertMappingCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/doctrine/lib/Doctrine/ORM/Tools/Console/Command/ConvertMappingCommand.php
+END
+GenerateEntitiesCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/vendor/doctrine/lib/Doctrine/ORM/Tools/Console/Command/GenerateEntitiesCommand.php
+END
+GenerateRepositoriesCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/vendor/doctrine/lib/Doctrine/ORM/Tools/Console/Command/GenerateRepositoriesCommand.php
+END

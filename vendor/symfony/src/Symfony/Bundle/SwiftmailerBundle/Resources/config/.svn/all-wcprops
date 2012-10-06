@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SwiftmailerBundle/Resources/config
+END
+smtp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SwiftmailerBundle/Resources/config/smtp.xml
+END
+swiftmailer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SwiftmailerBundle/Resources/config/swiftmailer.xml
+END
+spool_file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SwiftmailerBundle/Resources/config/spool_file.xml
+END
+spool.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/SwiftmailerBundle/Resources/config/spool.xml
+END

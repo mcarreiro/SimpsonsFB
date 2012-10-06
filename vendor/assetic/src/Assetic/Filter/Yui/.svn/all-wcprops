@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/Yui
+END
+BaseCompressorFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/Yui/BaseCompressorFilter.php
+END
+JsCompressorFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/Yui/JsCompressorFilter.php
+END
+CssCompressorFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Filter/Yui/CssCompressorFilter.php
+END

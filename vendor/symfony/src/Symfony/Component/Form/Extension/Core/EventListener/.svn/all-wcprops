@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/Extension/Core/EventListener
+END
+FixRadioInputListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/Extension/Core/EventListener/FixRadioInputListener.php
+END
+ResizeFormListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/Extension/Core/EventListener/ResizeFormListener.php
+END
+FixUrlProtocolListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/Extension/Core/EventListener/FixUrlProtocolListener.php
+END
+TrimListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Form/Extension/Core/EventListener/TrimListener.php
+END

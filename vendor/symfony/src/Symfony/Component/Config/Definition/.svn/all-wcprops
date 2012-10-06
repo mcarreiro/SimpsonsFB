@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition
+END
+ScalarNode.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/ScalarNode.php
+END
+VariableNode.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/VariableNode.php
+END
+PrototypeNodeInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/PrototypeNodeInterface.php
+END
+PrototypedArrayNode.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/PrototypedArrayNode.php
+END
+Processor.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/Processor.php
+END
+BaseNode.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/BaseNode.php
+END
+ArrayNode.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/ArrayNode.php
+END
+BooleanNode.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/BooleanNode.php
+END
+NodeInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/NodeInterface.php
+END
+ConfigurationInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Config/Definition/ConfigurationInterface.php
+END

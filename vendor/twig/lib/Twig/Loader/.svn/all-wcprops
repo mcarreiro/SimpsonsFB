@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/vendor/twig/lib/Twig/Loader
+END
+Chain.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/vendor/twig/lib/Twig/Loader/Chain.php
+END
+Filesystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/vendor/twig/lib/Twig/Loader/Filesystem.php
+END
+String.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/vendor/twig/lib/Twig/Loader/String.php
+END
+Array.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/vendor/twig/lib/Twig/Loader/Array.php
+END

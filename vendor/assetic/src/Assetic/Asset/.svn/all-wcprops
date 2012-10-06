@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Asset
+END
+AssetReference.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Asset/AssetReference.php
+END
+FileAsset.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Asset/FileAsset.php
+END
+HttpAsset.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Asset/HttpAsset.php
+END
+AssetInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Asset/AssetInterface.php
+END
+AssetCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Asset/AssetCache.php
+END
+GlobAsset.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Asset/GlobAsset.php
+END
+StringAsset.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Asset/StringAsset.php
+END
+BaseAsset.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Asset/BaseAsset.php
+END
+AssetCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/vendor/assetic/src/Assetic/Asset/AssetCollection.php
+END

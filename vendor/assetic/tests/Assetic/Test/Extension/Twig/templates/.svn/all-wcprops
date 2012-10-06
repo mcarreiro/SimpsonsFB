@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig/templates
+END
+image.twig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig/templates/image.twig
+END
+output_url.twig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig/templates/output_url.twig
+END
+glob.twig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig/templates/glob.twig
+END
+function.twig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig/templates/function.twig
+END
+debug.twig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig/templates/debug.twig
+END
+filters.twig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig/templates/filters.twig
+END
+absolute_path.twig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig/templates/absolute_path.twig
+END
+optional_filter.twig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig/templates/optional_filter.twig
+END
+combine.twig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig/templates/combine.twig
+END
+mixture.twig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig/templates/mixture.twig
+END
+output_pattern.twig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig/templates/output_pattern.twig
+END
+reference.twig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig/templates/reference.twig
+END

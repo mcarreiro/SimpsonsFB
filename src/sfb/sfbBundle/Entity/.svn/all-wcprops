@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/src/sfb/sfbBundle/Entity
+END
+Episodios.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/src/sfb/sfbBundle/Entity/Episodios.php
+END
+Temporadas.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/src/sfb/sfbBundle/Entity/Temporadas.php
+END
+Frases.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/src/sfb/sfbBundle/Entity/Frases.php
+END
+Personajes.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/src/sfb/sfbBundle/Entity/Personajes.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/vendor/bundles/JMS/SecurityExtraBundle/Tests/Security/Authorization/Interception
+END
+MethodSecurityInterceptorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/2/trunk/vendor/bundles/JMS/SecurityExtraBundle/Tests/Security/Authorization/Interception/MethodSecurityInterceptorTest.php
+END
+SecureMethodInvocationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2/trunk/vendor/bundles/JMS/SecurityExtraBundle/Tests/Security/Authorization/Interception/SecureMethodInvocationTest.php
+END

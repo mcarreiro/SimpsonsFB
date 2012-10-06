@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/Authorization
+END
+AccessDecisionManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/Authorization/AccessDecisionManager.php
+END
+AccessDecisionManagerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Component/Security/Core/Authorization/AccessDecisionManagerInterface.php
+END

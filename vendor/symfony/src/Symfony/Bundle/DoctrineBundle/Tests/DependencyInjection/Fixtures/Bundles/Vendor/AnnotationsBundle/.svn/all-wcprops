@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/Bundles/Vendor/AnnotationsBundle
+END
+AnnotationsBundle.php
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/Bundles/Vendor/AnnotationsBundle/AnnotationsBundle.php
+END

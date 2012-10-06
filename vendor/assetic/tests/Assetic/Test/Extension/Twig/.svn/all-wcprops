@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig
+END
+TwigResourceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig/TwigResourceTest.php
+END
+TwigFormulaLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig/TwigFormulaLoaderTest.php
+END
+AsseticExtensionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/vendor/assetic/tests/Assetic/Test/Extension/Twig/AsseticExtensionTest.php
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/MonologBundle/Resources/config/schema
+END
+monolog-1.0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/vendor/symfony/src/Symfony/Bundle/MonologBundle/Resources/config/schema/monolog-1.0.xsd
+END

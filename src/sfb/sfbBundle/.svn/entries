@@ -1,0 +1,80 @@
+10
+
+dir
+14
+https://sfb.googlecode.com/svn/trunk/src/sfb/sfbBundle
+https://sfb.googlecode.com/svn
+
+
+
+2012-08-18T17:55:36.800503Z
+14
+martin301290@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2edba8d5-3ba5-53fb-f71c-cbc8069e94ea
+
+Controller
+dir
+
+DependencyInjection
+dir
+
+Entity
+dir
+
+Form
+dir
+
+Resources
+dir
+
+Tests
+dir
+
+sfbBundle.php
+file
+
+
+
+
+2012-06-30T02:20:13.607724Z
+2a841e7919fda2f05a2f1ac9918dcebc
+2012-07-02T01:37:59.975656Z
+3
+martin301290@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+117
+
